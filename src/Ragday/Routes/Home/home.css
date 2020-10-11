@@ -1,0 +1,11 @@
+.home{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+/* one tab indentation for any div directly under the class div */
+
+    .pages{
+        display: grid;
+        grid-template-rows: 1fr 6fr;
+    }
